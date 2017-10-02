@@ -3,7 +3,7 @@ Deploying Dense Networks for Maximal Energy Efficiency
 
 This is a code package is related to the follow scientific article:
 
-Emil Björnson, Luca Sanguinetti, Marios Kountouris, “[Deploying Dense Networks for Maximal Energy Efficiency: Small Cells Meet Massive MIMO](http://arxiv.org/pdf/1505.01181),” IEEE Journal on Selected Areas in Communications, To appear.
+Emil Björnson, Luca Sanguinetti, Marios Kountouris, “[Deploying Dense Networks for Maximal Energy Efficiency: Small Cells Meet Massive MIMO](http://arxiv.org/pdf/1505.01181),” IEEE Journal on Selected Areas in Communications, vol. 34, no. 4, pp. 832-847, April 2016.
 
 The package contains a simulation environment, based on Matlab, that reproduces all the numerical results and figures in the article. *We encourage you to also perform reproducible research!*
 
